@@ -1,11 +1,9 @@
 # [Live Link](https://narsoft-task.netlify.app/)
 
-Hakkımızda sayfası about sekmesine konumuştur.
+A page structure has been created in the 'Recent News' section.
 
-Recent News kısmında page yapısı oluşturuldu.
+Data has been fetched using Axios.
 
-Data axios ile çekilmiştir.
-
-Sadece Carousel de Bootstrap yapısı ile kurulmuştur.
+Only the Carousel has been set up with the Bootstrap framework.
 
 
